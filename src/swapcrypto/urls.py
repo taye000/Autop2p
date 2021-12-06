@@ -3,5 +3,5 @@ from . import views
 
 # urlconf
 urlpatterns = [
-    path('signin/', views.sign_in)
+    path('signup/', views.sign_up)
 ]
